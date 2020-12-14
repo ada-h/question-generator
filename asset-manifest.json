@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/question-generator/static/css/main.e551a529.chunk.css",
+    "main.js": "/question-generator/static/js/main.1b3eded0.chunk.js",
+    "main.js.map": "/question-generator/static/js/main.1b3eded0.chunk.js.map",
+    "runtime-main.js": "/question-generator/static/js/runtime-main.69d2e209.js",
+    "runtime-main.js.map": "/question-generator/static/js/runtime-main.69d2e209.js.map",
+    "static/css/2.1e918bf3.chunk.css": "/question-generator/static/css/2.1e918bf3.chunk.css",
+    "static/js/2.a8e1e153.chunk.js": "/question-generator/static/js/2.a8e1e153.chunk.js",
+    "static/js/2.a8e1e153.chunk.js.map": "/question-generator/static/js/2.a8e1e153.chunk.js.map",
+    "static/js/3.eb1c3b24.chunk.js": "/question-generator/static/js/3.eb1c3b24.chunk.js",
+    "static/js/3.eb1c3b24.chunk.js.map": "/question-generator/static/js/3.eb1c3b24.chunk.js.map",
+    "index.html": "/question-generator/index.html",
+    "static/css/2.1e918bf3.chunk.css.map": "/question-generator/static/css/2.1e918bf3.chunk.css.map",
+    "static/css/main.e551a529.chunk.css.map": "/question-generator/static/css/main.e551a529.chunk.css.map",
+    "static/js/2.a8e1e153.chunk.js.LICENSE.txt": "/question-generator/static/js/2.a8e1e153.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69d2e209.js",
+    "static/css/2.1e918bf3.chunk.css",
+    "static/js/2.a8e1e153.chunk.js",
+    "static/css/main.e551a529.chunk.css",
+    "static/js/main.1b3eded0.chunk.js"
+  ]
+}
